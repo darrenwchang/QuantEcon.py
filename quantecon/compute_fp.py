@@ -160,6 +160,8 @@ def _compute_fixed_point_ig(T, v, max_iter, verbose, print_skip, is_approx_fp,
     """
     Implement the imitation game algorithm by McLennan and Tourky (2006)
     for computing an approximate fixed point of `T`.
+    
+    Comment for practice
 
     Parameters
     ----------
